@@ -1,5 +1,5 @@
 #include<iostream>
-// min max using naive method
+// finding min & max using naive method:simple methi
 using namespace std;
 int main()
 {
